@@ -9,7 +9,7 @@
 - 🛠️ I build **web applications** with Laravel, Vue.js, Inertia, Tailwind, Alpine, Pinia, and all the spicy modern stacks.  
 - 🎮 I sharpen my hacking skills on **HackTheBox** & capture-the-flag challenges.  
 - 📚 I love **learning**, hacking knowledge as much as I hack systems.  
-- 🌍 Based in **Morocco** 🇲🇦).  
+- 🌍 Based in **Morocco** 🇲🇦.  
 
 ---
 
