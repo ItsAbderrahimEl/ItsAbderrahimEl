@@ -38,7 +38,6 @@
 ---
 
 ## 🤝 Let’s Connect
-- 🧑‍💻 [LinkedIn](https://linkedin.com/in/abderrahim-el-ouariachi-a1b2c3/) – where I look professional.
 - 🐙 [GitHub](https://github.com/ItsAbderrahimEl) – where I look busy.  
 
 ---
