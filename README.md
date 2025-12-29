@@ -38,9 +38,6 @@
 ---
 
 ## 🤝 Let’s Connect
-- 🐙 [GitHub](https://github.com/ItsAbderrahimEl) – where I look busy.  
-
----
-
-## 💡 Fun Fact
-I can spend hours hacking a box, but still forget where I put my coffee ☕.  
+- 🐙 [GitHub](https://github.com/ItsAbderrahimEl)
+- ✉️ Email: abderahimouriachi@gmail.com
+- 📞 Phone: +212 623 960 018
