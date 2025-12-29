@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Abderrahim El Ouariachi  
 
-💻 **Web Application Penetration Tester** | ⚡ **Full-Stack Developer (Laravel & Vue)** | 🎯 **CTF Enthusiast**  
+💻 **Penetration Tester** | ⚡ **Full-Stack Developer (Laravel & Vue)** | 🎯 **CTF Enthusiast**  
 
 ---
 
